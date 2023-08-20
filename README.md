@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nidan2110
-- 👀 I’m interested in FrontEnd Development and Designing
-- 🌱 I’m currently learning Bachelor's in Information Technology
-- 💞️ I’m looking for internships as frontend Developer
+- 👀 I’m interested in Cloud Computing and DevOps 
+- 💞️ I’m currently working as a intern in Red hat
 - 📫 contact me@ nidangavali1@gmail.com
 
 <!---
