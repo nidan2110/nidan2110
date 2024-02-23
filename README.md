@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nidan2110
-- 👀 I’m interested in Cloud Computing and DevOps 
-- 💞️ I’m currently working as a intern in Red hat
+- 👋 Hi, I'm Nidan Gavali
+- 👀 I’m interested in Software Testing and Development roles.
+- 💞️ I worked as a Sofware Quality Engineer intern @Red Hat.
 - 📫 contact me@ nidangavali1@gmail.com
 
 <!---
